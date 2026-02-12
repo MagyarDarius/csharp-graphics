@@ -9,3 +9,14 @@ D:\C#\Graphics\grafika 2\grafika 2\bin\Debug\grafika 2.pdb
 D:\C#\Graphics\grafika 2\grafika 2\obj\Debug\grafika 2.exe
 D:\C#\Graphics\grafika 2\grafika 2\obj\Debug\grafika 2.pdb
 D:\C#\Graphics\grafika 2\grafika 2\obj\Debug\grafika 2.exe.config
+D:\C#\csharp-graphics\grafika 2\grafika 2\bin\Debug\grafika 2.exe.config
+D:\C#\csharp-graphics\grafika 2\grafika 2\bin\Debug\grafika 2.exe
+D:\C#\csharp-graphics\grafika 2\grafika 2\bin\Debug\grafika 2.pdb
+D:\C#\csharp-graphics\grafika 2\grafika 2\obj\Debug\grafika 2.csproj.AssemblyReference.cache
+D:\C#\csharp-graphics\grafika 2\grafika 2\obj\Debug\grafika 2.exe.config
+D:\C#\csharp-graphics\grafika 2\grafika 2\obj\Debug\grafika_2.Form1.resources
+D:\C#\csharp-graphics\grafika 2\grafika 2\obj\Debug\grafika_2.Properties.Resources.resources
+D:\C#\csharp-graphics\grafika 2\grafika 2\obj\Debug\grafika 2.csproj.GenerateResource.cache
+D:\C#\csharp-graphics\grafika 2\grafika 2\obj\Debug\grafika 2.csproj.CoreCompileInputs.cache
+D:\C#\csharp-graphics\grafika 2\grafika 2\obj\Debug\grafika 2.exe
+D:\C#\csharp-graphics\grafika 2\grafika 2\obj\Debug\grafika 2.pdb

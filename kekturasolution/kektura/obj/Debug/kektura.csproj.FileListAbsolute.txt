@@ -1,0 +1,13 @@
+D:\C#\csharp-graphics\kekturasolution\kektura\bin\Debug\kektura.exe.config
+D:\C#\csharp-graphics\kekturasolution\kektura\bin\Debug\kektura.exe
+D:\C#\csharp-graphics\kekturasolution\kektura\bin\Debug\kektura.pdb
+D:\C#\csharp-graphics\kekturasolution\kektura\bin\Debug\ClassLibraryKektura.dll
+D:\C#\csharp-graphics\kekturasolution\kektura\bin\Debug\ClassLibraryKektura.pdb
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.csproj.AssemblyReference.cache
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.Kektura.resources
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.Properties.Resources.resources
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.csproj.GenerateResource.cache
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.csproj.CoreCompileInputs.cache
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.csproj.Up2Date
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.exe
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.pdb

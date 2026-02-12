@@ -1,0 +1,6 @@
+D:\C#\csharp-graphics\kekturasolution\ClassLibraryKektura\bin\Debug\ClassLibraryKektura.dll
+D:\C#\csharp-graphics\kekturasolution\ClassLibraryKektura\bin\Debug\ClassLibraryKektura.pdb
+D:\C#\csharp-graphics\kekturasolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.csproj.AssemblyReference.cache
+D:\C#\csharp-graphics\kekturasolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.csproj.CoreCompileInputs.cache
+D:\C#\csharp-graphics\kekturasolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.dll
+D:\C#\csharp-graphics\kekturasolution\ClassLibraryKektura\obj\Debug\ClassLibraryKektura.pdb

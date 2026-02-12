@@ -15,6 +15,7 @@ namespace grafika_2
         public Form1()
         {
             InitializeComponent();
+            Calculator();
         }
         private int osszeg = 0;
 
@@ -185,6 +186,18 @@ namespace grafika_2
             {
                 labelEredmeny.Text = $"Ez kevés lesz....";
             }
+        }
+
+        private void ButtonReset_Click(object sender, EventArgs e)
+        {
+            Keszpenz_fizetes.Visible = false;
+            kartya_fizetes.Visible = false;
+            penz_fizetes.Visible = false;
+            buttonResult.Text = "Fizetés";
+            IngredientsSettings();
+            RadioCukorNelkul.Checked = true;
+            Radioespresso.Checked = true;
+            Calculator();
         }
     }
 }

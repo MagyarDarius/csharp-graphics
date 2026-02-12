@@ -59,6 +59,7 @@
             this.kp_mennyiseg = new System.Windows.Forms.TextBox();
             this.buttonPenzBedobas = new System.Windows.Forms.Button();
             this.Keszpenz_fizetes = new System.Windows.Forms.GroupBox();
+            this.ButtonReset = new System.Windows.Forms.Button();
             this.Cukor.SuspendLayout();
             this.hozzavalok.SuspendLayout();
             this.forroitalok.SuspendLayout();
@@ -183,8 +184,6 @@
             // kavekrem
             // 
             this.kavekrem.AutoSize = true;
-            this.kavekrem.Checked = true;
-            this.kavekrem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.kavekrem.Location = new System.Drawing.Point(7, 20);
             this.kavekrem.Name = "kavekrem";
             this.kavekrem.Size = new System.Drawing.Size(74, 17);
@@ -406,11 +405,23 @@
             this.Keszpenz_fizetes.Text = "Készpénz Fizetés";
             this.Keszpenz_fizetes.Visible = false;
             // 
+            // ButtonReset
+            // 
+            this.ButtonReset.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.ButtonReset.Location = new System.Drawing.Point(38, 374);
+            this.ButtonReset.Name = "ButtonReset";
+            this.ButtonReset.Size = new System.Drawing.Size(75, 23);
+            this.ButtonReset.TabIndex = 23;
+            this.ButtonReset.Text = "RESET";
+            this.ButtonReset.UseVisualStyleBackColor = true;
+            this.ButtonReset.Click += new System.EventHandler(this.ButtonReset_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.ButtonReset);
             this.Controls.Add(this.Keszpenz_fizetes);
             this.Controls.Add(this.penz_fizetes);
             this.Controls.Add(this.kartya_fizetes);
@@ -420,7 +431,8 @@
             this.Controls.Add(this.hozzavalok);
             this.Controls.Add(this.buttonResult);
             this.Name = "Form1";
-            this.Text = "5";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Ital Automata";
             this.Cukor.ResumeLayout(false);
             this.Cukor.PerformLayout();
             this.hozzavalok.ResumeLayout(false);
@@ -468,6 +480,7 @@
         private System.Windows.Forms.TextBox kp_mennyiseg;
         private System.Windows.Forms.Button buttonPenzBedobas;
         private System.Windows.Forms.GroupBox Keszpenz_fizetes;
+        private System.Windows.Forms.Button ButtonReset;
     }
 }
 
