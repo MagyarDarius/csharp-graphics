@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|solutionrelative:kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|d:\\c#\\csharp-graphics\\kekturasolution\\kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|D:\\C#\\csharp-graphics\\kekturasolution\\kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|solutionrelative:kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ClassLibraryKektura\\Kektura.cs",
               "ToolTip": "D:\\C#\\csharp-graphics\\kekturasolution\\ClassLibraryKektura\\Kektura.cs",
               "RelativeToolTip": "ClassLibraryKektura\\Kektura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T08:33:26.416Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "kektura\\Form1.cs",
               "ToolTip": "D:\\C#\\csharp-graphics\\kekturasolution\\kektura\\Form1.cs",
               "RelativeToolTip": "kektura\\Form1.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwEEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T10:37:33.037Z",
               "EditorCaption": ""

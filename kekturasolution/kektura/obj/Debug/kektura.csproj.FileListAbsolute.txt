@@ -11,3 +11,4 @@ D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.csproj.CoreCompi
 D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.csproj.Up2Date
 D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.exe
 D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.pdb
+D:\C#\csharp-graphics\kekturasolution\kektura\obj\Debug\kektura.exe.config

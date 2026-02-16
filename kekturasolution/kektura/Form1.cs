@@ -54,7 +54,16 @@ namespace kektura
         {
             try
             {
-                int index = listBoxUtvonalLista.SelectedItem;
+                if(listBoxUtvonalLista.SelectedItem == null)
+                {
+                    MessageBox.Show("Válasszon ki egy elemet!", "elbasztad!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+                else
+                {
+                    int index = listBoxUtvonalLista.SelectedIndex;
+
+                    
+                }
             }
             catch (Exception ex)
             {

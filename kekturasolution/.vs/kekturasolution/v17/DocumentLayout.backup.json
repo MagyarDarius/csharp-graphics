@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C#\\csharp-graphics\\kekturasolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|d:\\c#\\csharp-graphics\\kekturasolution\\kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|solutionrelative:kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|d:\\c#\\csharp-graphics\\kekturasolution\\kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|solutionrelative:kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|D:\\C#\\csharp-graphics\\kekturasolution\\kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5ADDC0D6-8FA2-48FA-BC0D-999804823EF7}|kektura\\kektura.csproj|solutionrelative:kektura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6993CC7-C4D3-4960-A39E-364C8B5B817E}|ClassLibraryKektura\\ClassLibraryKektura.csproj|D:\\C#\\csharp-graphics\\kekturasolution\\classlibrarykektura\\kektura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,27 +32,27 @@
               "RelativeDocumentMoniker": "ClassLibraryKektura\\Kektura.cs",
               "ToolTip": "D:\\C#\\csharp-graphics\\kekturasolution\\ClassLibraryKektura\\Kektura.cs",
               "RelativeToolTip": "ClassLibraryKektura\\Kektura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwBcAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T08:33:26.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\C#\\csharp-graphics\\kekturasolution\\kektura\\Form1.cs",
               "RelativeDocumentMoniker": "kektura\\Form1.cs",
               "ToolTip": "D:\\C#\\csharp-graphics\\kekturasolution\\kektura\\Form1.cs",
               "RelativeToolTip": "kektura\\Form1.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAlwDMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T10:37:33.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\C#\\csharp-graphics\\kekturasolution\\kektura\\Form1.cs",
               "RelativeDocumentMoniker": "kektura\\Form1.cs",
