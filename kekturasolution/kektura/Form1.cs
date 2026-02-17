@@ -48,6 +48,7 @@ namespace kektura
             {
                 listBoxUtvonalLista.Items.Add(obj.KiinduloPont);
             }
+            labelSorokSzama.Text = $"{ClassLibraryKektura.Kektura.Kekturalista.Count} db";
         }
 
         private void buttonShowData_Click(object sender, EventArgs e)
@@ -61,14 +62,40 @@ namespace kektura
                 else
                 {
                     int index = listBoxUtvonalLista.SelectedIndex;
-
-                    
+                    textBoxKiinduloPont.Text = lathatoLista[index].KiinduloPont;
+                    textBoxVegPont.Text = lathatoLista[index].VegPont;
+                    textBoxSzakaszHossz.Text = lathatoLista[index].SzakaszHosszKm.ToString();
+                    textBoxEmelkedes.Text = lathatoLista[index].Emelkedes.ToString();
+                    textBoxLejtes.Text = lathatoLista[index].Lejtes.ToString();
+                    checkBoxPecset.Checked = lathatoLista[index].Pecsetelohely;
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, "Hiba!",
                 MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void buttonKereses_Click(object sender, EventArgs e)
+        {
+            if (textBoxKereses.Text == null)
+            {
+                return;
+            }
+            else
+            {
+                lathatoLista.Clear();
+                string darab = textBoxKereses.Text;
+                foreach (var obj in ClassLibraryKektura.Kektura.Kekturalista)
+
+                {
+                    if (obj.KiinduloPont.Contains(darab))
+                    {
+                        lathatoLista.Add(obj);
+                    }
+                }
+                ListaMegjelenitese();
             }
         }
     }

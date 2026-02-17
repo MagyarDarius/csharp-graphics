@@ -43,6 +43,10 @@
             this.textBoxLejtes = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.checkBoxPecset = new System.Windows.Forms.CheckBox();
+            this.groupBoxKereses = new System.Windows.Forms.GroupBox();
+            this.textBoxKereses = new System.Windows.Forms.TextBox();
+            this.buttonKereses = new System.Windows.Forms.Button();
+            this.groupBoxKereses.SuspendLayout();
             this.SuspendLayout();
             // 
             // listBoxUtvonalLista
@@ -179,11 +183,40 @@
             this.checkBoxPecset.TabIndex = 14;
             this.checkBoxPecset.UseVisualStyleBackColor = true;
             // 
+            // groupBoxKereses
+            // 
+            this.groupBoxKereses.Controls.Add(this.buttonKereses);
+            this.groupBoxKereses.Controls.Add(this.textBoxKereses);
+            this.groupBoxKereses.Location = new System.Drawing.Point(401, 169);
+            this.groupBoxKereses.Name = "groupBoxKereses";
+            this.groupBoxKereses.Size = new System.Drawing.Size(294, 100);
+            this.groupBoxKereses.TabIndex = 15;
+            this.groupBoxKereses.TabStop = false;
+            this.groupBoxKereses.Text = "Keresés a kiinduló pontok között";
+            // 
+            // textBoxKereses
+            // 
+            this.textBoxKereses.Location = new System.Drawing.Point(7, 20);
+            this.textBoxKereses.Name = "textBoxKereses";
+            this.textBoxKereses.Size = new System.Drawing.Size(187, 20);
+            this.textBoxKereses.TabIndex = 0;
+            // 
+            // buttonKereses
+            // 
+            this.buttonKereses.Location = new System.Drawing.Point(201, 16);
+            this.buttonKereses.Name = "buttonKereses";
+            this.buttonKereses.Size = new System.Drawing.Size(75, 23);
+            this.buttonKereses.TabIndex = 1;
+            this.buttonKereses.Text = "Keresés";
+            this.buttonKereses.UseVisualStyleBackColor = true;
+            this.buttonKereses.Click += new System.EventHandler(this.buttonKereses_Click);
+            // 
             // Kektura
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.groupBoxKereses);
             this.Controls.Add(this.checkBoxPecset);
             this.Controls.Add(this.textBoxLejtes);
             this.Controls.Add(this.textBoxEmelkedes);
@@ -203,6 +236,8 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Kéktura";
             this.Load += new System.EventHandler(this.Kektura_Load);
+            this.groupBoxKereses.ResumeLayout(false);
+            this.groupBoxKereses.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -225,6 +260,9 @@
         private System.Windows.Forms.TextBox textBoxLejtes;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.CheckBox checkBoxPecset;
+        private System.Windows.Forms.GroupBox groupBoxKereses;
+        private System.Windows.Forms.Button buttonKereses;
+        private System.Windows.Forms.TextBox textBoxKereses;
     }
 }
 
