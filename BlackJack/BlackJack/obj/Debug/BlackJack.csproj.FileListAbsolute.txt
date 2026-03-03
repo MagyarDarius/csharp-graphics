@@ -1,0 +1,14 @@
+D:\C#\csharp-graphics\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+D:\C#\csharp-graphics\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+D:\C#\csharp-graphics\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+D:\C#\csharp-graphics\BlackJack\BlackJack\bin\Debug\BJClassLibrary.dll
+D:\C#\csharp-graphics\BlackJack\BlackJack\bin\Debug\BJClassLibrary.pdb
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.FormBJ.resources
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.Up2Date
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.exe.config

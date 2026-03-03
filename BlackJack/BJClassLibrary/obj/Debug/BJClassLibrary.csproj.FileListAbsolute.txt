@@ -1,0 +1,6 @@
+D:\C#\csharp-graphics\BlackJack\BJClassLibrary\bin\Debug\BJClassLibrary.dll
+D:\C#\csharp-graphics\BlackJack\BJClassLibrary\bin\Debug\BJClassLibrary.pdb
+D:\C#\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.csproj.AssemblyReference.cache
+D:\C#\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.csproj.CoreCompileInputs.cache
+D:\C#\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.dll
+D:\C#\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.pdb

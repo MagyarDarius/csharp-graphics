@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\csharp-graphics\\BlackJack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9230DE5E-CF36-4B74-9BB6-684C86CD6EE6}|BlackJack\\BlackJack.csproj|D:\\C#\\csharp-graphics\\BlackJack\\blackjack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9230DE5E-CF36-4B74-9BB6-684C86CD6EE6}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9230DE5E-CF36-4B74-9BB6-684C86CD6EE6}|BlackJack\\BlackJack.csproj|D:\\C#\\csharp-graphics\\BlackJack\\blackjack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9230DE5E-CF36-4B74-9BB6-684C86CD6EE6}|BlackJack\\BlackJack.csproj|solutionrelative:blackjack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4BCF8A-682A-40FB-96A4-F2B63DF5EF5D}|BJClassLibrary\\BJClassLibrary.csproj|d:\\c#\\csharp-graphics\\blackjack\\bjclasslibrary\\classlibrarybj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4BCF8A-682A-40FB-96A4-F2B63DF5EF5D}|BJClassLibrary\\BJClassLibrary.csproj|solutionrelative:bjclasslibrary\\classlibrarybj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassLibraryBJ.cs",
+              "DocumentMoniker": "D:\\C#\\csharp-graphics\\BlackJack\\BJClassLibrary\\ClassLibraryBJ.cs",
+              "RelativeDocumentMoniker": "BJClassLibrary\\ClassLibraryBJ.cs",
+              "ToolTip": "D:\\C#\\csharp-graphics\\BlackJack\\BJClassLibrary\\ClassLibraryBJ.cs",
+              "RelativeToolTip": "BJClassLibrary\\ClassLibraryBJ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:19:42.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\csharp-graphics\\BlackJack\\BlackJack\\Form1.cs",
+              "RelativeDocumentMoniker": "BlackJack\\Form1.cs",
+              "ToolTip": "D:\\C#\\csharp-graphics\\BlackJack\\BlackJack\\Form1.cs*",
+              "RelativeToolTip": "BlackJack\\Form1.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAIA3wCkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:11:04.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\csharp-graphics\\BlackJack\\BlackJack\\Form1.cs",
+              "RelativeDocumentMoniker": "BlackJack\\Form1.cs",
+              "ToolTip": "D:\\C#\\csharp-graphics\\BlackJack\\BlackJack\\Form1.cs [Design]*",
+              "RelativeToolTip": "BlackJack\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:10:38.408Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
