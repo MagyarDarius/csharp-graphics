@@ -4,3 +4,9 @@ D:\C#\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.csproj.A
 D:\C#\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.csproj.CoreCompileInputs.cache
 D:\C#\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.dll
 D:\C#\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.pdb
+C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BJClassLibrary\bin\Debug\BJClassLibrary.dll
+C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BJClassLibrary\bin\Debug\BJClassLibrary.pdb
+C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.csproj.AssemblyReference.cache
+C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.dll
+C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BJClassLibrary\obj\Debug\BJClassLibrary.pdb
