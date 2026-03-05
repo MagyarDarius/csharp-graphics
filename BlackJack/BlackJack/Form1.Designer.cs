@@ -74,7 +74,7 @@
             this.buttonCancel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.buttonCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.buttonCancel.ForeColor = System.Drawing.Color.Crimson;
+            this.buttonCancel.ForeColor = System.Drawing.Color.Maroon;
             this.buttonCancel.Location = new System.Drawing.Point(46, 29);
             this.buttonCancel.Name = "buttonCancel";
             this.buttonCancel.Size = new System.Drawing.Size(120, 30);
@@ -88,7 +88,7 @@
             this.buttonPlaceBet.BackColor = System.Drawing.Color.Gray;
             this.buttonPlaceBet.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonPlaceBet.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.buttonPlaceBet.ForeColor = System.Drawing.Color.Crimson;
+            this.buttonPlaceBet.ForeColor = System.Drawing.Color.Maroon;
             this.buttonPlaceBet.Location = new System.Drawing.Point(172, 29);
             this.buttonPlaceBet.Name = "buttonPlaceBet";
             this.buttonPlaceBet.Size = new System.Drawing.Size(120, 30);
@@ -102,7 +102,7 @@
             this.buttonTetKezdes.BackColor = System.Drawing.Color.Gray;
             this.buttonTetKezdes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonTetKezdes.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.buttonTetKezdes.ForeColor = System.Drawing.Color.Crimson;
+            this.buttonTetKezdes.ForeColor = System.Drawing.Color.Maroon;
             this.buttonTetKezdes.Location = new System.Drawing.Point(23, 18);
             this.buttonTetKezdes.Name = "buttonTetKezdes";
             this.buttonTetKezdes.Size = new System.Drawing.Size(120, 31);
@@ -129,7 +129,7 @@
             this.buttonGameStart.BackColor = System.Drawing.Color.Gray;
             this.buttonGameStart.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonGameStart.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.buttonGameStart.ForeColor = System.Drawing.Color.Crimson;
+            this.buttonGameStart.ForeColor = System.Drawing.Color.Maroon;
             this.buttonGameStart.Location = new System.Drawing.Point(22, 24);
             this.buttonGameStart.Name = "buttonGameStart";
             this.buttonGameStart.Size = new System.Drawing.Size(143, 35);
@@ -141,6 +141,7 @@
             // 
             // panel1
             // 
+            this.panel1.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.panel1.Controls.Add(this.labelResult);
             this.panel1.Controls.Add(this.buttonStand);
             this.panel1.Controls.Add(this.buttonHit);
@@ -158,7 +159,7 @@
             // 
             this.labelResult.AutoSize = true;
             this.labelResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelResult.ForeColor = System.Drawing.Color.Crimson;
+            this.labelResult.ForeColor = System.Drawing.Color.Maroon;
             this.labelResult.Location = new System.Drawing.Point(455, 149);
             this.labelResult.Name = "labelResult";
             this.labelResult.Size = new System.Drawing.Size(92, 31);
@@ -171,7 +172,7 @@
             this.buttonStand.BackColor = System.Drawing.Color.Gray;
             this.buttonStand.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonStand.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonStand.ForeColor = System.Drawing.Color.Crimson;
+            this.buttonStand.ForeColor = System.Drawing.Color.Maroon;
             this.buttonStand.Location = new System.Drawing.Point(102, 203);
             this.buttonStand.Name = "buttonStand";
             this.buttonStand.Size = new System.Drawing.Size(76, 42);
@@ -186,7 +187,7 @@
             this.buttonHit.BackColor = System.Drawing.Color.Gray;
             this.buttonHit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonHit.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonHit.ForeColor = System.Drawing.Color.Crimson;
+            this.buttonHit.ForeColor = System.Drawing.Color.Maroon;
             this.buttonHit.Location = new System.Drawing.Point(102, 155);
             this.buttonHit.Name = "buttonHit";
             this.buttonHit.Size = new System.Drawing.Size(75, 42);
@@ -198,10 +199,10 @@
             // 
             // listBoxDealerCards
             // 
-            this.listBoxDealerCards.BackColor = System.Drawing.Color.Green;
+            this.listBoxDealerCards.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.listBoxDealerCards.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listBoxDealerCards.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBoxDealerCards.ForeColor = System.Drawing.Color.Crimson;
+            this.listBoxDealerCards.ForeColor = System.Drawing.Color.Maroon;
             this.listBoxDealerCards.FormattingEnabled = true;
             this.listBoxDealerCards.ItemHeight = 18;
             this.listBoxDealerCards.Location = new System.Drawing.Point(329, 27);
@@ -212,10 +213,10 @@
             // 
             // listBoxPlayerCards
             // 
-            this.listBoxPlayerCards.BackColor = System.Drawing.Color.Green;
+            this.listBoxPlayerCards.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.listBoxPlayerCards.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.listBoxPlayerCards.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.listBoxPlayerCards.ForeColor = System.Drawing.Color.Crimson;
+            this.listBoxPlayerCards.ForeColor = System.Drawing.Color.Maroon;
             this.listBoxPlayerCards.FormattingEnabled = true;
             this.listBoxPlayerCards.ItemHeight = 18;
             this.listBoxPlayerCards.Location = new System.Drawing.Point(329, 155);
@@ -228,7 +229,7 @@
             // 
             this.labelDealerValue.AutoSize = true;
             this.labelDealerValue.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelDealerValue.ForeColor = System.Drawing.Color.Crimson;
+            this.labelDealerValue.ForeColor = System.Drawing.Color.Maroon;
             this.labelDealerValue.Location = new System.Drawing.Point(191, 27);
             this.labelDealerValue.Name = "labelDealerValue";
             this.labelDealerValue.Size = new System.Drawing.Size(130, 25);
@@ -240,7 +241,7 @@
             // 
             this.labelPlayerValue.AutoSize = true;
             this.labelPlayerValue.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelPlayerValue.ForeColor = System.Drawing.Color.Crimson;
+            this.labelPlayerValue.ForeColor = System.Drawing.Color.Maroon;
             this.labelPlayerValue.Location = new System.Drawing.Point(191, 155);
             this.labelPlayerValue.Name = "labelPlayerValue";
             this.labelPlayerValue.Size = new System.Drawing.Size(128, 25);
@@ -252,7 +253,7 @@
             // 
             this.labelTetOsszeg.AutoSize = true;
             this.labelTetOsszeg.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelTetOsszeg.ForeColor = System.Drawing.Color.Crimson;
+            this.labelTetOsszeg.ForeColor = System.Drawing.Color.Maroon;
             this.labelTetOsszeg.Location = new System.Drawing.Point(18, 7);
             this.labelTetOsszeg.Name = "labelTetOsszeg";
             this.labelTetOsszeg.Size = new System.Drawing.Size(100, 16);
@@ -286,7 +287,7 @@
             // 
             this.labelHeadCards.AutoSize = true;
             this.labelHeadCards.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelHeadCards.ForeColor = System.Drawing.Color.Crimson;
+            this.labelHeadCards.ForeColor = System.Drawing.Color.Maroon;
             this.labelHeadCards.Location = new System.Drawing.Point(7, 67);
             this.labelHeadCards.Name = "labelHeadCards";
             this.labelHeadCards.Size = new System.Drawing.Size(79, 18);
@@ -311,7 +312,7 @@
             // 
             this.labelAceCard.AutoSize = true;
             this.labelAceCard.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelAceCard.ForeColor = System.Drawing.Color.Crimson;
+            this.labelAceCard.ForeColor = System.Drawing.Color.Maroon;
             this.labelAceCard.Location = new System.Drawing.Point(7, 29);
             this.labelAceCard.Name = "labelAceCard";
             this.labelAceCard.Size = new System.Drawing.Size(96, 18);
@@ -322,7 +323,7 @@
             // 
             this.labelCards.AutoSize = true;
             this.labelCards.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelCards.ForeColor = System.Drawing.Color.Crimson;
+            this.labelCards.ForeColor = System.Drawing.Color.Maroon;
             this.labelCards.Location = new System.Drawing.Point(4, 7);
             this.labelCards.Name = "labelCards";
             this.labelCards.Size = new System.Drawing.Size(123, 18);
@@ -344,7 +345,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Green;
+            this.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.labelBalance);
             this.Controls.Add(this.panelCards);
