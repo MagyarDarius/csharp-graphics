@@ -114,13 +114,14 @@
             // pictureBoxSlots
             // 
             this.pictureBoxSlots.BackColor = System.Drawing.Color.Black;
-            this.pictureBoxSlots.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBoxSlots.BackgroundImage")));
-            this.pictureBoxSlots.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBoxSlots.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.pictureBoxSlots.ErrorImage = null;
+            this.pictureBoxSlots.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxSlots.Image")));
             this.pictureBoxSlots.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBoxSlots.InitialImage")));
             this.pictureBoxSlots.Location = new System.Drawing.Point(523, -1);
             this.pictureBoxSlots.Name = "pictureBoxSlots";
             this.pictureBoxSlots.Size = new System.Drawing.Size(278, 168);
+            this.pictureBoxSlots.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBoxSlots.TabIndex = 6;
             this.pictureBoxSlots.TabStop = false;
             // 
