@@ -141,8 +141,8 @@ namespace BlackJack
         }
         private void ResetGameControls()
         {
-            buttonHit.BackColor = Color.Gray;
-            buttonStand.BackColor = Color.Gray;
+            buttonHit.BackColor = Color.Bisque;
+            buttonStand.BackColor = Color.Bisque;
         }
         private void EndRoundUI()
         {

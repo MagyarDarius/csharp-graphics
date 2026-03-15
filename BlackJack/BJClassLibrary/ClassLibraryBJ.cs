@@ -116,11 +116,7 @@ namespace BJClassLibrary
                 PlayerHand.AddCard(Deck.DrawCard());
                 DealerHand.AddCard(Deck.DrawCard());
 
-                if (DealerHand.GetValue() == 21)
-                {
-                    GameOver = true;
-                    CurrentBet = 0;
-                }
+                CheckInitialBlackjack();
             }
 
             public void PlayerHit()

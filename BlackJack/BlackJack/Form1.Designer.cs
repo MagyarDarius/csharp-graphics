@@ -35,6 +35,7 @@
             this.buttonTetKezdes = new System.Windows.Forms.Button();
             this.pictureBoxSlots = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panelPlayerCards = new System.Windows.Forms.Panel();
             this.labelResult = new System.Windows.Forms.Label();
             this.buttonStand = new System.Windows.Forms.Button();
             this.buttonHit = new System.Windows.Forms.Button();
@@ -49,7 +50,6 @@
             this.labelCards = new System.Windows.Forms.Label();
             this.labelBalance = new System.Windows.Forms.Label();
             this.panelDealerCards = new System.Windows.Forms.Panel();
-            this.panelPlayerCards = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxSlots)).BeginInit();
             this.panel1.SuspendLayout();
             this.panelTet.SuspendLayout();
@@ -58,7 +58,7 @@
             // 
             // textBoxBet
             // 
-            this.textBoxBet.BackColor = System.Drawing.Color.LightGray;
+            this.textBoxBet.BackColor = System.Drawing.Color.Bisque;
             this.textBoxBet.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBoxBet.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.textBoxBet.ForeColor = System.Drawing.Color.Crimson;
@@ -69,7 +69,7 @@
             // 
             // buttonCancel
             // 
-            this.buttonCancel.BackColor = System.Drawing.Color.LightGray;
+            this.buttonCancel.BackColor = System.Drawing.Color.Bisque;
             this.buttonCancel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.buttonCancel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonCancel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
@@ -84,7 +84,7 @@
             // 
             // buttonPlaceBet
             // 
-            this.buttonPlaceBet.BackColor = System.Drawing.Color.LightGray;
+            this.buttonPlaceBet.BackColor = System.Drawing.Color.Bisque;
             this.buttonPlaceBet.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonPlaceBet.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.buttonPlaceBet.ForeColor = System.Drawing.Color.Maroon;
@@ -98,7 +98,7 @@
             // 
             // buttonTetKezdes
             // 
-            this.buttonTetKezdes.BackColor = System.Drawing.Color.LightGray;
+            this.buttonTetKezdes.BackColor = System.Drawing.Color.Bisque;
             this.buttonTetKezdes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonTetKezdes.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.buttonTetKezdes.ForeColor = System.Drawing.Color.Maroon;
@@ -138,6 +138,13 @@
             this.panel1.Size = new System.Drawing.Size(800, 268);
             this.panel1.TabIndex = 8;
             // 
+            // panelPlayerCards
+            // 
+            this.panelPlayerCards.Location = new System.Drawing.Point(165, 134);
+            this.panelPlayerCards.Name = "panelPlayerCards";
+            this.panelPlayerCards.Size = new System.Drawing.Size(351, 134);
+            this.panelPlayerCards.TabIndex = 16;
+            // 
             // labelResult
             // 
             this.labelResult.AutoEllipsis = true;
@@ -153,7 +160,7 @@
             // 
             // buttonStand
             // 
-            this.buttonStand.BackColor = System.Drawing.Color.LightGray;
+            this.buttonStand.BackColor = System.Drawing.Color.Bisque;
             this.buttonStand.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonStand.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonStand.ForeColor = System.Drawing.Color.Maroon;
@@ -168,7 +175,7 @@
             // 
             // buttonHit
             // 
-            this.buttonHit.BackColor = System.Drawing.Color.LightGray;
+            this.buttonHit.BackColor = System.Drawing.Color.Bisque;
             this.buttonHit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonHit.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonHit.ForeColor = System.Drawing.Color.Maroon;
@@ -252,7 +259,7 @@
             // 
             // buttonAceInfo
             // 
-            this.buttonAceInfo.BackColor = System.Drawing.Color.LightGray;
+            this.buttonAceInfo.BackColor = System.Drawing.Color.Bisque;
             this.buttonAceInfo.FlatAppearance.BorderSize = 0;
             this.buttonAceInfo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonAceInfo.ForeColor = System.Drawing.SystemColors.MenuHighlight;
@@ -303,13 +310,6 @@
             this.panelDealerCards.Name = "panelDealerCards";
             this.panelDealerCards.Size = new System.Drawing.Size(351, 134);
             this.panelDealerCards.TabIndex = 15;
-            // 
-            // panelPlayerCards
-            // 
-            this.panelPlayerCards.Location = new System.Drawing.Point(165, 134);
-            this.panelPlayerCards.Name = "panelPlayerCards";
-            this.panelPlayerCards.Size = new System.Drawing.Size(351, 134);
-            this.panelPlayerCards.TabIndex = 16;
             // 
             // FormBJ
             // 
