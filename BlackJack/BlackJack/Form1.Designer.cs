@@ -128,6 +128,7 @@
             // 
             this.panel1.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.panel1.Controls.Add(this.panelPlayerCards);
+            this.panel1.Controls.Add(this.panelDealerCards);
             this.panel1.Controls.Add(this.labelResult);
             this.panel1.Controls.Add(this.buttonStand);
             this.panel1.Controls.Add(this.buttonHit);
@@ -140,20 +141,20 @@
             // 
             // panelPlayerCards
             // 
-            this.panelPlayerCards.Location = new System.Drawing.Point(165, 134);
+            this.panelPlayerCards.Location = new System.Drawing.Point(165, 148);
             this.panelPlayerCards.Name = "panelPlayerCards";
-            this.panelPlayerCards.Size = new System.Drawing.Size(351, 134);
+            this.panelPlayerCards.Size = new System.Drawing.Size(351, 120);
             this.panelPlayerCards.TabIndex = 16;
             // 
             // labelResult
             // 
             this.labelResult.AutoEllipsis = true;
             this.labelResult.AutoSize = true;
-            this.labelResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.labelResult.ForeColor = System.Drawing.Color.Maroon;
-            this.labelResult.Location = new System.Drawing.Point(522, 103);
+            this.labelResult.Location = new System.Drawing.Point(160, 116);
             this.labelResult.Name = "labelResult";
-            this.labelResult.Size = new System.Drawing.Size(92, 31);
+            this.labelResult.Size = new System.Drawing.Size(81, 29);
             this.labelResult.TabIndex = 14;
             this.labelResult.Text = "Result";
             this.labelResult.Visible = false;
@@ -306,9 +307,9 @@
             // 
             // panelDealerCards
             // 
-            this.panelDealerCards.Location = new System.Drawing.Point(166, 170);
+            this.panelDealerCards.Location = new System.Drawing.Point(165, 0);
             this.panelDealerCards.Name = "panelDealerCards";
-            this.panelDealerCards.Size = new System.Drawing.Size(351, 134);
+            this.panelDealerCards.Size = new System.Drawing.Size(351, 120);
             this.panelDealerCards.TabIndex = 15;
             // 
             // FormBJ
@@ -318,7 +319,6 @@
             this.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.labelBalance);
-            this.Controls.Add(this.panelDealerCards);
             this.Controls.Add(this.panelCards);
             this.Controls.Add(this.panelTet);
             this.Controls.Add(this.panel1);

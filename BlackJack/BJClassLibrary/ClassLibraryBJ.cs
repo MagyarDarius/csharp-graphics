@@ -116,7 +116,6 @@ namespace BJClassLibrary
                 PlayerHand.AddCard(Deck.DrawCard());
                 DealerHand.AddCard(Deck.DrawCard());
 
-                CheckInitialBlackjack();
             }
 
             public void PlayerHit()
@@ -209,7 +208,6 @@ namespace BJClassLibrary
                 }
                 else if (dealerBJ)
                 {
-                    PlayerBalance -= CurrentBet;
                     int lostAmount = CurrentBet;
                     CurrentBet = 0;
                     GameOver = true;
