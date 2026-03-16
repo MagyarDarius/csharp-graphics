@@ -11,17 +11,3 @@ D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompile
 D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.Up2Date
 D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.exe
 D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
-D:\C#\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.exe.config
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\bin\Debug\BlackJack.exe
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\bin\Debug\BJClassLibrary.dll
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\bin\Debug\BJClassLibrary.pdb
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.FormBJ.resources
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.cache
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.Up2Date
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.exe
-C:\Users\magya\Documents\GitHub\csharp-graphics\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
